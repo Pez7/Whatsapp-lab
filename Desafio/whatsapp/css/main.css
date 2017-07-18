@@ -1,0 +1,89 @@
+*{
+	margin:0;
+	padding:0;
+}
+#mi-nav{
+	background-color: #009488;
+	height: 85px;
+	position: absolute;
+}
+body{
+	background-color: #dfdfdf;
+}
+.frente{
+    position: relative;
+    z-index: 1000;
+    background-color: #dfdfdf;
+    top: 16px;
+    width: 81%;
+}
+img{
+    width: 38px;
+}
+.img-nav{
+	padding-top: 7px;
+}
+.borde{
+	border-bottom: 1px solid lightgray;
+}
+#seach{
+	background-color: #fff;
+}
+#icon-lab{
+	height: 45px;
+}
+input:not([type]),
+input[type=text]:not(.browser-default),
+input[type=password]:not(.browser-default),
+input[type=email]:not(.browser-default),
+input[type=url]:not(.browser-default),
+input[type=time]:not(.browser-default),
+input[type=date]:not(.browser-default),
+input[type=datetime]:not(.browser-default),
+input[type=datetime-local]:not(.browser-default),
+input[type=tel]:not(.browser-default),
+input[type=number]:not(.browser-default),
+input[type=search]:not(.browser-default),
+textarea.materialize-textarea{
+	background-color: #fff;
+    border: 1px solid lightgray;
+	width: 93%;
+    font-size: 1rem;
+    height: 2rem;
+    margin-top: -63px;
+}
+.frente2{
+    position: relative;
+    z-index: 1000;
+    background-color: #fff;
+    width: 81%;
+    bottom: 4px;
+}
+.buscar{
+    border: 1px solid lightgray;
+    background-color: #fff;
+}
+.card-peru{
+	display: inline-block;
+
+}
+#mensaje{
+	width: 100%;
+}
+.cad{
+	background-color: #fff;
+}
+.back{
+	background-color: #dcf6c4;
+    border-radius: 14%;
+    margin-right: 16px;
+    margin-top: 13px;
+}
+.chat{
+    background-color: #ede9e4;
+    height: 425px;
+    margin-top: -20px;
+}
+/*.fondo{
+	background-color: #fff;
+}*/
